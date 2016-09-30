@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Documents\Downloads\android-calendar-view-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Documents\Downloads\android-calendar-view-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_a897c831246cb96990abd6f0e0a6e726cc5e2e02.jar" />
+    </item>
+    <item
+        jar="G:\SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Documents\Downloads\android-calendar-view-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_443fdeabf75b46ab12ee2b7090cb5455165ce5aa.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Downloads\android-calendar-view-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cc52e4ee3ea6603212381fbb1de872a1a747384a">
+        <dex dex="D:\Documents\Downloads\android-calendar-view-master\app\build\intermediates\pre-dexed\debug\instant-run_2880e5ad080e323f80ec40832796b481f6d715af.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Downloads\android-calendar-view-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="820ff370c316485269b184478a98cb4eb758d482">
+        <dex dex="D:\Documents\Downloads\android-calendar-view-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ee03b647da0adc4bf5c06c864447536cc19099f0.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Downloads\android-calendar-view-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Documents\Downloads\android-calendar-view-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_7775cd9f32c625e8b604d04deb6cd480429812a8.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Downloads\android-calendar-view-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Documents\Downloads\android-calendar-view-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_eee1c5e61e13346608127dedec58b63cdb2021ef.jar" />
+    </item>
+
+</items>
